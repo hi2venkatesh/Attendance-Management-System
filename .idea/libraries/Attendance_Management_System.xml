@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Attendance-Management-System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
